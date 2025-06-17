@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://hh-ide.ee.test.sankuai.com/static/css/main.16deadd7.css",
+    "main.js": "https://hh-ide.ee.test.sankuai.com/static/js/main.7fac7c3d.js",
+    "index.html": "https://hh-ide.ee.test.sankuai.com/index.html",
+    "main.16deadd7.css.map": "https://hh-ide.ee.test.sankuai.com/static/css/main.16deadd7.css.map",
+    "main.7fac7c3d.js.map": "https://hh-ide.ee.test.sankuai.com/static/js/main.7fac7c3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16deadd7.css",
+    "static/js/main.7fac7c3d.js"
+  ]
+}
