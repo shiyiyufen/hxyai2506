@@ -2,7 +2,6 @@
   "name": "ai-chat-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hh-ide.ee.test.sankuai.com",
   "engines": {
     "node": ">=16.0.0 <20.0.0",
     "npm": ">=8.0.0"
